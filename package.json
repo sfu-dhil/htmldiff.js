@@ -20,7 +20,7 @@
         "html"
     ],
     "devDependencies": {
-        "coffee-script": "*",
+        "coffeescript": "*",
         "chai": "*",
         "mocha": "*"
     },
