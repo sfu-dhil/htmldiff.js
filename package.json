@@ -12,17 +12,15 @@
         "url": "git://github.com/sfu-dhil/htmldiff.js.git"
     },
     "issues": {
-      "url": "https://github.com/tnwinc/htmldiff.js/issues"
+      "url": "https://github.com/sfu-dhil/htmldiff.js/issues"
     },
     "keywords": [
         "diff",
         "htmldiff",
         "html"
     ],
-    "dependencies": {
-        "coffee-script": "*"
-    },
     "devDependencies": {
+        "coffee-script": "*",
         "chai": "*",
         "mocha": "*"
     },
